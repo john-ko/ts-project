@@ -1,0 +1,48 @@
+Arguments: 
+  /Users/johnko/.nvm/versions/node/v12.6.0/bin/node /Users/johnko/.nvm/versions/node/v12.6.0/bin/yarn install
+
+PATH: 
+  /Users/johnko/.nvm/versions/node/v12.6.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:/Users/johnko/opt/anaconda3/bin:/Users/johnko/opt/anaconda3/pkgs:/Users/johnko/.deno/bin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  12.6.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EINVAL: invalid argument, mkdir '/Users/johnko/projects/js/typescript/ts-project/node_modules/@types/jest/node_modules'
+
+npm manifest: 
+  {
+    "name": "ts-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "devDependencies": {
+      "@types/jest": "^26.0.4",
+      "jest-ts-auto-mock": "^1.0.11",
+      "ts-auto-mock": "^2.3.2",
+      "ts-jest": "^26.1.1",
+      "ttypescript": "^1.5.10",
+      "typescript": "^3.9.6"
+    },
+    "scripts": {
+      "test": "jest src/"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^0.19.2",
+      "jest": "^26.1.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
