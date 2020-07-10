@@ -1,6 +1,8 @@
 # ts-project
-
 small project to setup typescript, jest, ts-jest, and ts-auto-mock
+
+- `yarn install`
+- `yarn test`
 
 ## setup docs
 - ts-jest [https://kulshekhar.github.io/ts-jest/user/install](https://kulshekhar.github.io/ts-jest/user/install)
