@@ -6,6 +6,7 @@ small project to setup typescript, jest, ts-jest, and ts-auto-mock
 
 ## install
 `yarn add @types/jest jest-ts-auto-mock ts-auto-mock ts-jest ts-node ttypescript typescript jest -D`
+
 `yarn tsc --init`
 
 ## setup docs
